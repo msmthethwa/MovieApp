@@ -1,0 +1,13 @@
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\bin\Debug\Movies_App.exe.config
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\bin\Debug\Movies_App.exe
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.Movies.resources
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.Properties.Resources.resources
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.SignIn.resources
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.SignUp.resources
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\MoviesApp.csproj.GenerateResource.cache
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.exe
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.pdb
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\bin\Debug\Movies_App.pdb
+C:\Users\MS Mthethwa\OneDrive\Desktop\MUT\Programming (Year 2)\DEVELOPMENT SOFTWARE II\For Test Three and Exam\MoviesApp\Movies_App\obj\Debug\Movies_App.Upload.resources
